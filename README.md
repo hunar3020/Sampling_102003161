@@ -31,7 +31,7 @@ The table below shows the accuracies of each sampling technique on five differen
 | Cluster Sampling | **0.9999** | 0.9868 | 0.8971 | 0.8809 | 0.9691 |
 | Convenience Sampling | 0.9887 | 0.9849 | 0.8833 | 0.8739 | 0.9623 |
 
-Based on these results, it can be concluded that Cluster Sampling performs the best on all five models. Simple random sampling performs the worst on all five models. The other sampling techniques have varying performance depending on the model. The model which gives the best accuracy for all 5 samples is Decision Tree.
+Based on these results, it can be concluded that Cluster Sampling performs the best on all five models. Simple random sampling performs the worst on all five models. The other sampling techniques have varying performance depending on the model. The model which gives the best accuracy for all 5 samples is Ada Boost Classifier.
 
 ## Conclusion
 
